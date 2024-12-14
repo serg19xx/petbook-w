@@ -1,14 +1,14 @@
 {
   "name": "pet-book",
   "version": "0.0.0",
-  "homepage": "https://serg19xx.github.io/petbook-w/",
+  "homepage": "https://serg19xx.github.io/",
   "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d build ",
+    "deploy":"gh-pages -d dist",
     "preview": "vite preview"
   },
   "dependencies": {
