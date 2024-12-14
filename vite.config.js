@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/petbook-w/',//process.env.NODE_ENV === 'production' ? '/' : '/',  ////publicPath
+  base: '/',//process.env.NODE_ENV === 'production' ? '/' : '/',  ////publicPath
   plugins: [
     vue(),
     vueDevTools(),
