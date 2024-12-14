@@ -1,6 +1,7 @@
 {
   "name": "pet-book",
   "version": "0.0.0",
+  "homepage": "https://github.com/serg19xx/petbook-w",
   "private": true,
   "type": "module",
   "scripts": {
