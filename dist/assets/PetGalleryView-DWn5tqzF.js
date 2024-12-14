@@ -1,0 +1,1 @@
+import{_ as o,c as t,b as s,o as c}from"./index-PYZdG9FS.js";const r="/assets/favicon-uSLXchjO.ico",n={};function a(i,e){return c(),t("div",null,e[0]||(e[0]=[s("div",null,[s("img",{src:r})],-1)]))}const _=o(n,[["render",a]]);export{_ as default};
